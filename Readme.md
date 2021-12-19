@@ -1,1 +1,0 @@
-#Sistem Lab - Perceptron
